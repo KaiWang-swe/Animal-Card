@@ -22,4 +22,4 @@ animal-card/
 ├── index.html # Main HTML file for the animal card.
 ├── styles.css # Stylesheet for customizing the appearance.
 └── images/
-└── goat.jpg # Image of the featured animal, the Goa
+└── goat.jpg # Image of the featured animal, the Goat. 
