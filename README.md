@@ -19,9 +19,9 @@ The project files are organized as follows:
 
 animal-card/
 |
-|- index.html    # Main HTML file for the animal card
+|- index.html     Main HTML file for the animal card
 |
-|- styles.css    # Stylesheet for customizing the appearance
+|- styles.css     Stylesheet for customizing the appearance
 |
-|_ goat.jpg      # Image of the featured animal, the Goat
+|_ goat.jpg       Image of the featured animal, the Goat
 
