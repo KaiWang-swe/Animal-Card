@@ -18,10 +18,9 @@ This project showcases a simple yet interactive animal card featuring a Goat. Th
 The project files are organized as follows:
 
 animal-card/
-|
-|- index.html     Main HTML file for the animal card
-|
-|- styles.css     Stylesheet for customizing the appearance
-|
-|_ goat.jpg       Image of the featured animal, the Goat
 
+|-- index.html     #Main HTML file for the animal card
+
+|--styles.css     #Stylesheet for customizing the appearance
+
+|__ goat.jpg       #Image of the featured animal, the Goat.
