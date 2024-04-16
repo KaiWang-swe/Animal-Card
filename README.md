@@ -24,3 +24,12 @@ animal-card/
 |--styles.css     #Stylesheet for customizing the appearance
 
 |__ goat.jpg       #Image of the featured animal, the Goat.
+
+├── dist
+│   ├── main.js
+│   └── index.html
+├── src
+│   └── index.js
+├── package-lock.json
+├── package.json
+└── webpack.config.js
