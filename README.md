@@ -25,11 +25,3 @@ animal-card/
 
 |__ goat.jpg       #Image of the featured animal, the Goat.
 
-├── dist
-│   ├── main.js
-│   └── index.html
-├── src
-│   └── index.js
-├── package-lock.json
-├── package.json
-└── webpack.config.js
