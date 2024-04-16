@@ -27,14 +27,15 @@
 
 li {
     list-style-type: none;
-    /* padding-left: 0; */
+    padding-left: 0px;
+    /* display: flex; */
     text-align: left;
     margin-left: -40px;
 }
 
 h3 {
-
-    margin-left: -260px;
+    display: flex;
+    margin-left: 20px;
 }
 
 .fact {
